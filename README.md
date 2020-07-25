@@ -4,5 +4,5 @@
 **iamsadiqshaik1**
 - 🐍 Pythoneer
 - 💻 I.O.T Enthusiast
-- 🕸 Learning WEB Develpoment
+- 🕸  WEB Develpoment Learner
 - 🤖 Rookie M.L
