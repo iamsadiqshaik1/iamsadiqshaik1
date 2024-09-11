@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sadiq</h1>
 <h3 align="center">A Azure dotnet develope</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsadiqshaik1" alt="iamsadiqshaik1" /></a> </p>
-
 - 🔭 I’m currently working on **HCL Tech(Microsoft)**
 
 - 📝 I regularly write articles on [Not a writer](Not a writer)
